@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CustomerMaintenanceClasses.Customer">
+    <Position X="14.5" Y="1" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAACBAAAAgAAABAAAAAAAAAAAAAAAACAAAAAg=</HashCode>
+      <FileName>Customer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CustomerMaintenanceClasses.CustomerDB" Collapsed="true">
+    <Position X="9.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAACAAAAAAAAAAAAAAAAAAARAAA=</HashCode>
+      <FileName>CustomerDB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CustomerMaintenanceClasses.Validator" Collapsed="true">
+    <Position X="9.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAUAAAAEAAQEAAAAABAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>Validator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CustomerMaintenanceClasses.RetailCustomer">
+    <Position X="17" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAACAAAAABAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RetailCustomer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CustomerMaintenanceClasses.WholesaleCustomer">
+    <Position X="17" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAABAAAAAQ=</HashCode>
+      <FileName>WholesaleCustomer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
